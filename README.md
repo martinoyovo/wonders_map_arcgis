@@ -7,7 +7,7 @@ A Flutter application that showcases wonders around the world using **ArcGIS Map
 
 |              Initial view             |             Expand Page           |             Map Selection           |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| <img src="https://github.com/martinoyovo/wonders_map_arcgis/blob/main/sreenshots/1.png" width="350"> | <img src="https://github.com/martinoyovo/wonders_map_arcgis/blob/main/sreenshots/2.png" width="350"> | <img src="https://github.com/martinoyovo/wonders_map_arcgis/blob/main//sreenshots/3.png" width="350"> |
+| <img src="https://raw.githubusercontent.com/martinoyovo/wonders_map_arcgis/refs/heads/main/screenshots/1.png" width="350"> | <img src="https://raw.githubusercontent.com/martinoyovo/wonders_map_arcgis/refs/heads/main/screenshots/2.png" width="350"> | <img src="https://raw.githubusercontent.com/martinoyovo/wonders_map_arcgis/refs/heads/main/screenshots/3.png" width="350"> |
 
 ## 🚀 Getting Started
 
