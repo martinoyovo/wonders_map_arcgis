@@ -1,0 +1,2 @@
+/Users/kos14224/StudioProjects/dev_summit_demo/android/app/.cxx/Debug/4p4f4v4e/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/kos14224/StudioProjects/dev_summit_demo/android/app/.cxx/Debug/4p4f4v4e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
