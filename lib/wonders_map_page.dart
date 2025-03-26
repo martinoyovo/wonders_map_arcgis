@@ -153,8 +153,8 @@ class _WondersMapPageState extends State<WondersMapPage>
           boxShadow: [
             if (!_largeView)
               BoxShadow(
-                blurRadius: 5,
-                spreadRadius: 5,
+                blurRadius: 1,
+                spreadRadius: 2,
                 color: Colors.grey.shade200,
               ),
           ],
