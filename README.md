@@ -74,10 +74,10 @@ flutter run --dart-define-from-file=path/to/env.json
 
 - **Dart:** 3.5.3+
 - **Flutter:** 3.24.3+
-- ArcGIS Maps SDK properly configured for map rendering.
+- ArcGIS Maps SDK properly configured for map rendering. 
 
-For more information, view the detailed system requirements.
+For more information, view the detailed [system requirements](https://developers.arcgis.com/flutter/system-requirements/system-requirements-for-200-6/)
 
 ---
 
-Enjoy exploring the wonders of the world! 🌐✨
+### Enjoy exploring the wonders of the world! 🌐✨
