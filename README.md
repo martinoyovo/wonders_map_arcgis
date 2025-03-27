@@ -2,9 +2,25 @@
 ![Wonders Map App](https://img.shields.io/badge/platform-Flutter-blue) ![GitHub followers](https://img.shields.io/github/followers/martinoyovo) ![X Follow](https://img.shields.io/twitter/follow/martinoyovo.svg?style=social)
 
 A Flutter application that showcases wonders around the world using **ArcGIS Maps SDK** for seamless map integration.
+## 📱 Features Overview 
+
+1. **Basemap Switching (25+ Basemaps)**  
+   - Toggle between basemaps (Nova, Streets, Topographic, Imagery, etc.).  
+   - Basemap gallery for easy selection.  
+
+2. **Dynamic Map Expansion/Collapse**  
+   - Expand to full-screen or collapse to half-view.  
+   - Gesture-based interactions (drag/swipe).  
+
+3. **Smooth Wonder Animation**  
+   - Zoom and pan between wonders with smooth transitions.  
+   - Markers with dynamic pop-ups or info windows.  
+
+4. **Wonder Information Overlay**  
+   - Show wonder details (description, images, historical facts).  
 
 ## Preview
-
+![Wonders Map App](screenshots/demo.gif)
 |              Initial view             |             Expand Page           |             Map Selection           |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
 | <img src="https://raw.githubusercontent.com/martinoyovo/wonders_map_arcgis/refs/heads/main/screenshots/1.png" width="350"> | <img src="https://raw.githubusercontent.com/martinoyovo/wonders_map_arcgis/refs/heads/main/screenshots/2.png" width="350"> | <img src="https://raw.githubusercontent.com/martinoyovo/wonders_map_arcgis/refs/heads/main/screenshots/3.png" width="350"> |
