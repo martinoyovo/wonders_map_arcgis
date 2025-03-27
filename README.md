@@ -1,7 +1,7 @@
 # 🌍 Wonders Map App
 ![Wonders Map App](https://img.shields.io/badge/platform-Flutter-blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/martino-yovo/) ![GitHub followers](https://img.shields.io/github/followers/martinoyovo) ![X Follow](https://img.shields.io/twitter/follow/martinoyovo.svg?style=social)
 
-A Flutter application that showcases wonders around the world using **ArcGIS Maps SDK** for seamless map integration.
+A Flutter application that showcases wonders around the world using [**ArcGIS Maps SDK**](https://pub.dev/packages/arcgis_maps) for seamless map integration.
 ## 📱 Features Overview 
 
 1. **Basemap Switching (25+ Basemaps)**  
